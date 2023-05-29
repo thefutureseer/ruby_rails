@@ -1,0 +1,79 @@
+Ruby on Rails, 
+often referred to as just "Rails," 
+is an open-source web application 
+framework written in Ruby. It 
+follows the Model-View-Controller 
+(MVC) architectural pattern and 
+provides a set of conventions and 
+tools to streamline web development.
+
+Here are some key features and 
+concepts of Ruby on Rails:
+
+Convention over Configuration: 
+Rails follows the principle of convention 
+over configuration, which means it makes 
+assumptions about the best practices and 
+default behaviors, reducing the need for 
+explicit configuration.
+
+Model-View-Controller (MVC): 
+Rails uses the MVC pattern to separate the 
+application's concerns into three main components: 
+1. the model (handles data and business logic), 
+2. the view (renders the user interface), and 
+3. the controller (manages the flow of data and requests between the model and view).
+
+Active Record: 
+Active Record is Rails' object-relational 
+mapping (ORM) library. It provides an interface 
+to interact with the database, allowing you to 
+define models as Ruby classes that correspond 
+to database tables. Active Record handles the 
+mapping between objects and database records, 
+making database interactions easier.
+
+Scaffolding: 
+Rails provides scaffolding generators that 
+automatically generate the basic code for 
+creating, reading, updating, and deleting 
+records for a particular model. It helps 
+bootstrap a CRUD (Create, Read, Update, 
+Delete) interface quickly.
+
+RESTful Architecture: 
+Rails encourages building RESTful 
+applications by adhering to the 
+principles of Representational 
+State Transfer (REST). It promotes 
+using standard HTTP methods (GET, 
+POST, PUT, DELETE) to perform CRUD 
+operations on resources.
+
+Gems and Libraries: 
+Rails has a vast ecosystem of gems 
+and libraries that extend its 
+functionality. These gems provide 
+additional features such as 
+authentication, authorization, 
+testing frameworks, payment 
+integration, and much more. 
+You can easily integrate these 
+gems into your Rails application 
+to leverage their capabilities.
+
+Testing Support: 
+Rails has built-in support for 
+testing with frameworks like 
+MiniTest and RSpec. It encourages 
+writing automated tests to ensure 
+the quality and stability of your 
+application.
+
+Ruby on Rails has gained popularity 
+due to its developer-friendly nature, 
+rapid prototyping capabilities, and 
+emphasis on convention and simplicity. 
+It is used by many companies and 
+developers worldwide to build robust 
+and scalable web applications.
